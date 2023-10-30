@@ -1,13 +1,13 @@
 My Desktop Build
 
-- OS: macOS Big Sur 11.2.1 (20D75)
+- OS: macOS Sonoma 14.0 (23A344) 
 - CPU: Intel Core i5-10600k
 - RAM: 16GB DDR4
 - MB: Gigabyte B460M-DS3H (Bios F5d)
-- GPU: -
+- GPU: - Intel UHD Graphics 630 1536 MB
 - SSD: WD M.2 NVMe 1TB
-- WLAN & Blutooth: -
-- OpenCore Version: 0.6.8
+- WLAN & Blutooth: - usb dongal wifi bt (both are seperate)
+- OpenCore Version: 0.9.5
 - SMBIOS: iMac20,1
 
 What's working :-
